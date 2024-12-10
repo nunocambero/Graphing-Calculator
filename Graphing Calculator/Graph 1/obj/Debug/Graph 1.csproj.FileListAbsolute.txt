@@ -1,0 +1,13 @@
+C:\Users\Universidad\Projects\C#\Graphing Calculator\Graph 1\bin\Debug\Graph 1.exe.config
+C:\Users\Universidad\Projects\C#\Graphing Calculator\Graph 1\bin\Debug\Graph 1.exe
+C:\Users\Universidad\Projects\C#\Graphing Calculator\Graph 1\bin\Debug\Graph 1.pdb
+C:\Users\Universidad\Projects\C#\Graphing Calculator\Graph 1\obj\Debug\Graph 1.csproj.AssemblyReference.cache
+C:\Users\Universidad\Projects\C#\Graphing Calculator\Graph 1\obj\Debug\Graph_1.Properties.Resources.resources
+C:\Users\Universidad\Projects\C#\Graphing Calculator\Graph 1\obj\Debug\Graph 1.csproj.GenerateResource.cache
+C:\Users\Universidad\Projects\C#\Graphing Calculator\Graph 1\obj\Debug\Graph 1.csproj.CoreCompileInputs.cache
+C:\Users\Universidad\Projects\C#\Graphing Calculator\Graph 1\obj\Debug\Graph 1.exe
+C:\Users\Universidad\Projects\C#\Graphing Calculator\Graph 1\obj\Debug\Graph 1.pdb
+C:\Users\Universidad\Projects\C#\Graphing Calculator\Graph 1\obj\Debug\Graph_1.MainApp.resources
+C:\Users\Universidad\Projects\C#\Graphing Calculator\Graph 1\obj\Debug\Graph_1.GraphDisplay.resources
+C:\Users\Universidad\Projects\C#\Graphing Calculator\Graph 1\bin\Debug\NCalc.dll
+C:\Users\Universidad\Projects\C#\Graphing Calculator\Graph 1\obj\Debug\Graph 1.csproj.Up2Date
